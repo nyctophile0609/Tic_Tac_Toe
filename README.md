@@ -10,7 +10,7 @@ https://www.python.org/downloads/
 
 To install PyQt5 run:
 
-pip install pyqt5
+"pip install pyqt5"
 in your cmd
 
 # How_to_run 
